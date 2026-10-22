@@ -1,0 +1,12 @@
+#: Локальное окружение и состояние стенда — вне git.
+.env
+vendor/
+dumps/
+logs/
+.sessions/
+*.pid
+*.log
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/

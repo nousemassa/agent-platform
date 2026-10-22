@@ -1,0 +1,18 @@
+[submodule "agent-core"]
+	path = agent-core
+	url = https://github.com/nousemassa/agent-core.git
+[submodule "infra"]
+	path = infra
+	url = https://github.com/nousemassa/infra.git
+[submodule "realty"]
+	path = realty
+	url = https://github.com/nousemassa/realty.git
+[submodule "news"]
+	path = news
+	url = https://github.com/nousemassa/news.git
+[submodule "models"]
+	path = models
+	url = https://github.com/nousemassa/models.git
+[submodule "search"]
+	path = search
+	url = https://github.com/nousemassa/search.git
